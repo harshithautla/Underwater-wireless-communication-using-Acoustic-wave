@@ -15,11 +15,10 @@ acoustic communication.
 due to its bad performance features such as high bit error 
 rates, large and variable propagation delays and low 
 bandwidth, are particularly vulnerable to malicious attacks 
-.
-To Obtain Accurate Communication Using Acoustic wave
+
+Our objective is to Obtain Accurate Communication Using Acoustic wave
 • Acoustic is the most preferred signal used as carrier by many
 application, following to its low absorption characteristic for 
 underwater communication.
-
 • By reducing noises and losses as more as possible, this helps us 
 to obtain an accurate communication
